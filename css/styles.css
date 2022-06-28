@@ -1,0 +1,23 @@
+
+.header-img, .team-img {
+    width: 50px;
+    height: 50px;
+}
+
+.container {
+    padding: 25px;
+}
+
+.table-row {
+    padding: 25px;
+
+}
+
+a {
+    text-decoration: none !important
+  }
+
+.team-logo{
+    width: 200px;
+    height: 200px;
+}
